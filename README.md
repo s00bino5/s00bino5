@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I am a student in the Department of Artificial Intelligence at Gachon University.
+My name is Soobin Lee.
 <!--
 **s00bino5/s00bino5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
